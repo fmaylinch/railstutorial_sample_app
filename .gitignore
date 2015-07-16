@@ -6,6 +6,7 @@
 
 # Ignore IntelliJ files
 .idea
+*.iml
 
 # Ignore bundler config.
 /.bundle
