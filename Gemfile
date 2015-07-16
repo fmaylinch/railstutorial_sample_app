@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+# https://devcenter.heroku.com/articles/ruby-versions
+ruby '2.0.0'
+
 gem 'rails',        '4.2.3'
 gem 'sass-rails',   '5.0.3'
 gem 'uglifier',     '2.7.1'
